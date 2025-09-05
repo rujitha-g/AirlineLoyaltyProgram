@@ -23,3 +23,4 @@ public class FlightActivity {
     public void setMilesEarned(int miles) { this.milesEarned = miles; }
     public int getMilesEarned() { return milesEarned; }
 }
+

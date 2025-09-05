@@ -1,3 +1,4 @@
+
 package airline.loyalty;
 
 public class Member {
